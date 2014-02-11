@@ -1,0 +1,52 @@
+{
+  "Brown Rice (cooked)": {
+    "carbs": 23,
+    "proteins": 2.6,
+    "fat": 0.9
+  },
+  "Brown Rice (uncooked)": {
+    "carbs": 77,
+    "proteins": 8,
+    "fat": 0.9
+  },
+  "White Rice (cooked)": {
+    "carbs": 28,
+    "proteins": 2.7,
+    "fat": 0.3
+  },
+  "White Rice (uncooked)": {
+    "carbs": 80,
+    "proteins": 7,
+    "fat": 0.7
+  },
+  "Quinoa (cooked)": {
+    "carbs": 21,
+    "proteins": 4.4,
+    "fat": 1.9
+  },
+  "Quinoa (uncooked)": {
+    "carbs": 64,
+    "proteins": 14,
+    "fat": 6
+  },
+  "Pasta (cooked)": {
+    "carbs": 27,
+    "proteins": 5,
+    "fat": 0.5
+  },
+  "Pasta (uncooked)": {
+    "carbs": 75,
+    "proteins": 14,
+    "fat": 1.5
+  },
+  "French Bread": {
+    "carbs": 56,
+    "proteins": 12,
+    "fat": 1.8
+  },
+  "Couscous": {
+    "carbs": 23,
+    "proteins": 3.8,
+    "fat": 0.2
+  }
+}
