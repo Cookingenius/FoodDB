@@ -1,32 +1,32 @@
 {
-	"Chicken Breast": {
-		"carbs": 0,
+  "Chicken Breast": {
+    "carbs": 0,
     "proteins": 38.4,
     "fat": 1.8
-	},
-	"Turkey Breast": {
-		"carbs": 0,
+  },
+  "Turkey Breast": {
+    "carbs": 0,
     "proteins": 31,
     "fat": 4.5
-	},
-	"Ground beef (20% fat)": {
-		"carbs": 0,
+  },
+  "Ground beef (20% fat)": {
+    "carbs": 0,
     "proteins": 27,
     "fat": 17
-	},
-	"Ground beef (15% fat)": {
-		"carbs": 0,
+  },
+  "Ground beef (15% fat)": {
+    "carbs": 0,
     "proteins": 26,
     "fat": 15
-	},
-	"Ground beef (10% fat)": {
-		"carbs": 0,
+  },
+  "Ground beef (10% fat)": {
+    "carbs": 0,
     "proteins": 28,
     "fat": 12
-	},
-	"Ground beef (5% fat)": {
-		"carbs": 0,
+  },
+  "Ground beef (5% fat)": {
+    "carbs": 0,
     "proteins": 26,
     "fat": 7
-	},
+  },
 }
