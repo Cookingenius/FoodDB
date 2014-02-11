@@ -28,5 +28,10 @@
     "carbs": 4,
     "proteins": 10.3,
     "fat": 0
+  },
+  "Mozzarella": {
+    "carbs": 3.1,
+    "proteins": 26,
+    "fat": 17
   }
 }
