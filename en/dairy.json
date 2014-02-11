@@ -1,0 +1,27 @@
+{
+	"Skimmed Milk": {
+		"carbs": 5,
+    "proteins": 3.4,
+    "fat": 0.1
+	},
+	"Semi-skimmed Milk": {
+		"carbs": 4.8,
+    "proteins": 3.6,
+    "fat": 1.8
+	},
+	"Whole Milk": {
+		"carbs": 4.7,
+    "proteins": 3.2,
+    "fat": 3.6
+	},
+	"Cheddar": {
+		"carbs": 0.1,
+    "proteins": 25,
+    "fat": 34.4
+	},
+	"Butter": {
+		"carbs": 0.1,
+    "proteins": 0.5,
+    "fat": 81.7
+  }
+}
