@@ -153,5 +153,10 @@
     "carbs": 19,
     "proteins": 0.8,
     "fat": 0.3
+  },
+  "Avocado": {
+    "carbs": 9,
+    "proteins": 2,
+    "fat": 15
   }
 }
