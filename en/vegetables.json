@@ -114,11 +114,6 @@
     "proteins": 0.8,
     "fat": 0.2
   },
-  "Chickpea": {
-    "carbs": 27,
-    "proteins": 9,
-    "fat": 2.6
-  },
   "Corn": {
     "carbs": 74,
     "proteins": 9,
@@ -128,11 +123,6 @@
     "carbs": 11,
     "proteins": 3.3,
     "fat": 0.2
-  },
-  "Lentil": {
-    "carbs": 20,
-    "proteins": 9,
-    "fat": 0.4
   },
   "Sweet Potato": {
     "carbs": 18,
