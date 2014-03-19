@@ -88,5 +88,11 @@
     "carbs": 14,
     "proteins": 15,
     "fat": 65
+  },
+  "Egg": {
+    "weight": 50,
+    "carbs": 0.6,
+    "proteins": 6,
+    "fat": 5
   }
 }
